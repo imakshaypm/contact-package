@@ -1,0 +1,19 @@
+{
+    "name": "bitfumes/contact",
+    "description": "This will send email to admin and save contact query in db",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bitfumes\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akshay Prabhakaran",
+            "email": "akshay.prabhakaran@qburst.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
