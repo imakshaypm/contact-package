@@ -8,6 +8,13 @@
             "Bitfumes\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bitfumes\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Akshay Prabhakaran",
